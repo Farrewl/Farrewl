@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm [Nama Kamu]! 👋
 
-<!--
-**Farrewl/Farrewl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Informatics student at Universitas Diponegoro with a strong passion for **Artificial Intelligence, Internet of Things, and Autonomous Systems**. 
 
-Here are some ideas to get you started:
+### 🚀 What I'm currently working on
+- 🚤 Developing control software and computer vision models (OpenCV, YOLOv8) for autonomous surface and underwater vessels.
+- 🔐 Building hardware-integrated projects like real-time IoT security systems using edge devices and sensors.
+- 🌐 Exploring interactive web platforms with real-time data integration (WebRTC, PostgreSQL).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, C++, C, Rust, SQL
+- **AI & Vision:** OpenCV, YOLO
+- **Hardware & IoT:** PyMavlink, Pixhawk, ROS/ROS2
+- **Tools:** Git, Docker, Linux, OBS Studio
+
+### 📈 GitHub Stats
+<!-- Ganti USERNAME_KAMU dengan username GitHub aslimu -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=transparent)
+
+### 📫 Let's Connect!
+- LinkedIn: [Link LinkedIn Kamu]
+- Email: [Email Kamu]
