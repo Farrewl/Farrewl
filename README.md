@@ -1,23 +1,14 @@
-# Hi there, I'm Farrewl! 👋
+<div align="center">
+  <!-- Animasi mengetik ala terminal Linux -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=27E835¢er=true&vCenter=true&width=600&lines=Informatics+Student+@+Undip;Robotics+%26+IoT+Developer;CachyOS+Linux+Enthusiast;Crafting+Code+%26+Circuits" alt="Typing SVG" />
+</div>
 
-I'm an Informatics student at Universitas Diponegoro with a strong passion for **Artificial Intelligence, Internet of Things, and Autonomous Systems**. 
+### 💻 `ibnu@cachyos:~$ whoami`
 
-### 🚀 What I'm currently working on
-- 🚤 Developing control software and computer vision models (OpenCV, YOLOv8) for autonomous surface and underwater vessels.
-- 🔐 Building hardware-integrated projects like real-time IoT security systems using edge devices and sensors.
-- 🌐 Exploring interactive web platforms with real-time data integration (WebRTC, PostgreSQL).
-
-### 🛠️ Tech Stack & Tools
-- **Languages:** Python, C++, C, Rust, SQL
-- **AI & Vision:** OpenCV, YOLO
-- **Hardware & IoT:** PyMavlink, Pixhawk, ROS/ROS2
-- **Tools:** Git, Docker, Linux, OBS Studio
-
-### 📈 GitHub Stats
-<!-- Ganti USERNAME_KAMU dengan username GitHub aslimu -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Farrewl&show_icons=true&theme=transparent)
-
-### 📫 Let's Connect!
-- LinkedIn:   https://www.linkedin.com/in/ibnufarrel/
-- Email:      ibnufirdaus2030@gmail.com 
-- Instagram:  https://www.instagram.com/ibnufaths
+```bash
+#!/bin/bash
+NAME="Ibnu Farrel A. F."
+FACTION="UKM Robotika Undip"
+CLASS="Informatics Student & Developer"
+BASE_STATION="Semarang, Indonesia"
+CURRENT_QUEST="Writing control software & edge IoT security"
