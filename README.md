@@ -1,4 +1,4 @@
-# Hi there, I'm [Nama Kamu]! 👋
+# Hi there, I'm Farrewl! 👋
 
 I'm an Informatics student at Universitas Diponegoro with a strong passion for **Artificial Intelligence, Internet of Things, and Autonomous Systems**. 
 
@@ -15,8 +15,9 @@ I'm an Informatics student at Universitas Diponegoro with a strong passion for *
 
 ### 📈 GitHub Stats
 <!-- Ganti USERNAME_KAMU dengan username GitHub aslimu -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Farrewl&show_icons=true&theme=transparent)
 
 ### 📫 Let's Connect!
-- LinkedIn: [Link LinkedIn Kamu]
-- Email: [Email Kamu]
+- LinkedIn:   https://www.linkedin.com/in/ibnufarrel/
+- Email:      ibnufirdaus2030@gmail.com 
+- Instagram:  https://www.instagram.com/ibnufaths
