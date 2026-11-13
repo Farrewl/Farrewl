@@ -1,3 +1,5 @@
+<!-- Ganti Farrewl (3 tempat) dengan username GitHub kamu. Repo harus bernama sama dengan username. -->
+
 <p align="center">
   <img src="assets/banner.svg" width="100%" alt="neofetch: Ibnu Farrel A. F., CachyOS, Universitas Diponegoro, Informatics year 2, Embedded, AI/CV, IoT. Aspiring Embedded Software Engineer." />
 </p>
@@ -28,8 +30,4 @@
   <img src="https://raw.githubusercontent.com/Farrewl/Farrewl/output/stats.svg" width="100%" alt="GitHub stats" /><br>
   <img src="https://raw.githubusercontent.com/Farrewl/Farrewl/output/langs.svg" width="100%" alt="Most used languages" /><br>
   <img src="https://raw.githubusercontent.com/Farrewl/Farrewl/output/github-snake.svg" width="100%" alt="Contribution snake" />
-</p>
-
-<p align="center">
-  <img src="assets/footer.svg" width="100%" alt="$ exit. thanks for stopping by." />
 </p>
