@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&stroke=27E835&strokeWidth=4&text=IBNU%20FARREL&fontSize=84&fontColor=55FF55&fontAlign=50&fontAlignY=42&desc=embedded%20%C2%B7%20ai%20%C2%B7%20iot%20%C2%B7%20linux&descSize=30&descAlign=50&descAlignY=72&animation=fadeIn" alt="Ibnu Farrel" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&stroke=27E835&strokeWidth=4&text=FARREWL&fontSize=84&fontColor=55FF55&fontAlign=50&fontAlignY=42&desc=embedded%20%C2%B7%20ai%20%C2%B7%20iot%20%C2%B7%20linux&descSize=30&descAlign=50&descAlignY=72&animation=fadeIn" alt="Farrewl" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3200&pause=900&color=55FF55&background=0D1117&center=true&vCenter=true&width=640&height=70&lines=%24+sudo+pacman+-S+embedded-systems;%24+./explore+--ai+--vision+--iot;%24+screen+/dev/ttyUSB0+115200;%24+git+commit+-m+%22still+learning%22;%3E+aspiring+embedded+software+engineer" alt="$ sudo pacman -S embedded-systems" />
 
