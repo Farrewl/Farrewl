@@ -1,10 +1,10 @@
-# Simpan sebagai: .github/workflows/snake.yml
-name: Generate Snake
+# Simpan sebagai: .github/workflows/generate.yml
+name: Generate Profile Assets
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # tiap hari
-  workflow_dispatch:       # bisa dijalankan manual
+    - cron: "0 0 * * *"   # Berjalan otomatis tiap hari
+  workflow_dispatch:       # Bisa dijalankan manual dari tab Actions
   push:
     branches:
       - main
@@ -17,7 +17,22 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Generate snake dari contribution graph
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Generate stats and langs cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: |
+          python3 scripts/gen_cards.py dist
+
+      - name: Generate snake animation
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -31,6 +46,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "update snake"
+          git commit -m "Update profile cards and snake animation"
           git remote add origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
           git push -f origin output
